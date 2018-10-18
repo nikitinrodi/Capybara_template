@@ -1,4 +1,5 @@
 # Capybara template
+As Is! Need to update dependencies!
 
 1. Git clone
 2. Install ruby version manager (rvm for exampple) or user regular ruby setup
